@@ -1,0 +1,12 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Trezor Logo - Lock with Shield Bottom -->
+  <rect width="180" height="180" fill="white"/>
+  <g transform="translate(40, 15)">
+    <!-- Lock handle (rounded top) -->
+    <path d="M50 0C32.88 0 19 13.88 19 31V46H27V31C27 18.3 37.3 8 50 8C62.7 8 73 18.3 73 31V46H81V31C81 13.88 67.12 0 50 0Z" fill="#000000"/>
+    <!-- Lock body with shield bottom -->
+    <path d="M8 46H92V92C92 92 92 100 84 108L50 115L16 108C8 100 8 92 8 92V46Z" fill="#000000"/>
+    <!-- Inner cutout (white space) -->
+    <path d="M27 65H73V88L50 100L27 88V65Z" fill="#FFFFFF"/>
+  </g>
+</svg>

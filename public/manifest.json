@@ -1,0 +1,28 @@
+{
+  "name": "Trezor Suite App (Official) | Desktop & Web Crypto Dashboard",
+  "short_name": "Trezor Suite",
+  "description": "Trezor.io/start — your gateway to the Trezor Suite App on web and desktop for managing crypto wallets, tracking balances, and accessing digital assets through a secure interface.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1A1A1A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "security", "crypto"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
